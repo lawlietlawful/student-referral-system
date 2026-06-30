@@ -1,0 +1,30 @@
+tardiness,misconduct,total_absences,behavioral_reports_count,failed_subjects,referral_reason,risk_level
+0,0,0,0,0,"Requested college counseling",low
+0,0,1,0,0,"Minor misunderstanding with a classmate",low
+0,0,2,0,0,"General counseling needed",low
+1,0,1,0,0,"Asked for career advice",low
+0,0,2,0,0,"Needs a tutor for chemistry",low
+1,0,0,0,0,"Wants to know about scholarship opportunities",low
+0,0,3,0,0,"Absent for 3 days, unexplained",moderate
+1,0,3,0,0,"Frequently absent",moderate
+2,0,3,0,0,"Missing some assignments lately",moderate
+0,0,4,0,0,"Absent for 4 days",moderate
+2,1,4,1,0,"Disruptive and absent",moderate
+0,0,5,0,0,"Hit the 5 absence limit",high
+1,0,5,0,0,"Absent 5 times, failing",high
+3,1,5,1,0,"General counseling needed for family matters but absent 5 times",high
+2,0,6,0,0,"Over 5 absences",high
+8,3,12,3,2,"Has not attended class in two weeks and is failing",high
+5,4,8,4,3,"Extremely aggressive behavior towards peers",high
+7,2,15,2,1,"Absent due to family issues but failing",high
+1,5,3,5,2,"Caught cheating multiple times and absent 3 times",high
+6,1,11,1,3,"Depressed isolated and failing all subjects",high
+5,2,7,3,1,"Continues to interrupt the lesson and arrives late",high
+0,0,4,0,0,"Absent 4 times",moderate
+0,0,3,0,0,"Just hit 3 absences",moderate
+0,0,5,0,0,"Hit 5 absences",high
+0,0,6,0,0,"Hit 6 absences",high
+0,0,7,0,0,"Hit 7 absences",high
+0,0,0,0,0,"Normal check in",low
+0,0,1,0,0,"Sick 1 day",low
+0,0,2,0,0,"Sick 2 days",low
